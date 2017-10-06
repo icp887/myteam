@@ -1,0 +1,24 @@
+.navbar-dark .navbar-brand{
+    color:red;
+}
+
+.jumbotron{
+    background-image: url(clutchcity.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#CE1141;
+    
+}
+
+.display-3{
+    font-weight:bold;
+    text-shadow: 3px 3px #FDB927;
+}
+
+.table img{
+    width:200%;
+}
+
+#playerpic{
+    width:150%;
+}
